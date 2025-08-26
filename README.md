@@ -22,6 +22,13 @@ It fetches live data from the **OpenWeatherMap API** and displays it in a clean,
 
 ---
 
+## 📸 Screenshots
+
+![Screenshot 1](weatherapp-frontend/public/images/screenshot-1.png)
+![Screenshot 2](weatherapp-frontend/public/images/screenshot-2.png)
+
+---
+
 ## ⚙️ Setup & Installation
 
 ### Backend (Spring Boot)
@@ -46,12 +53,7 @@ It fetches live data from the **OpenWeatherMap API** and displays it in a clean,
 
 ---
 
-## 📸 Screenshots
 
-![Screenshot 1](weatherapp-frontend/public/images/screenshot-1.png)
-![Screenshot 2](weatherapp-frontend/public/images/screenshot-2.png)
-
----
 
 ### Frontend (React)
 
