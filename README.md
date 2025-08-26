@@ -48,8 +48,9 @@ It fetches live data from the **OpenWeatherMap API** and displays it in a clean,
 
 ## 📸 Screenshots
 
-![Alt text](<screenshot-1.png>)
-![Alt text](<screenshot-2.png>)
+![Screenshot 1](weatherapp-frontend/public/images/screenshot-1.png)
+![Screenshot 2](weatherapp-frontend/public/images/screenshot-2.png)
+
 ---
 
 ### Frontend (React)
